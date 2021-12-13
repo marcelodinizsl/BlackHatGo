@@ -1,0 +1,3 @@
+https://medium.com/asecuritysite-when-bob-met-alice/me-and-golang-for-cybersecurity-the-gopher-is-nearly-perfect-83c6d1980cc9
+https://asecuritysite.com/encryption/gohash
+https://asecuritysite.com/encryption/go_ntp
